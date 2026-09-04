@@ -1,0 +1,33 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Personal identity data
+user.jpg
+
+# Runtime outputs and machine-specific logs
+evidence/*
+logs/*
+data-logs/*
+dataset-test-logs/*
+test_dataset/results/*
+test_dataset/confusion_matrix.png
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Training outputs and downloaded datasets
+runs/
+Combined_Cup_Bottle_lunchBox-2/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
