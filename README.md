@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Owner-Aware%20Container%20Monitoring&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Edge%20AI%20for%20Unauthorized%20Interaction%20Detection&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header" width="100%"/>
+
+# Owner-Aware Temporal Monitoring of Personal Food and Drink Containers Using Edge AI for Unauthorized Interaction Detection
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=700&lines=Real-time+YOLOv8+object+detection;MediaPipe+face+%26+hand+landmarking;InsightFace+owner+authentication;ROI-based+interaction+analysis;Built+for+thesis+research+%26+demos" alt="Typing SVG" />
 
