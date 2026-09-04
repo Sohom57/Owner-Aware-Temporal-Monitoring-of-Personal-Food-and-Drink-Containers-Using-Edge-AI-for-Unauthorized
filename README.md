@@ -1,6 +1,6 @@
-# EzyZip: Owner-Aware Tamper Detection
+# Owner-Aware Temporal Monitoring of Personal Food and Drink Containers Using Edge AI for Unauthorized Interaction Detection
 
-EzyZip is a real-time, edge-oriented computer-vision pipeline for detecting possible tampering with food containers such as bottles, cups, and bowls. It combines object detection, face authentication, hand landmark tracking, region-of-interest (ROI) analysis, event logging, evidence capture, and optional Telegram notifications.
+This project is a real-time, edge-oriented computer-vision pipeline for detecting possible unauthorized interactions with personal food and drink containers such as bottles, cups, and bowls. It combines object detection, face authentication, hand landmark tracking, region-of-interest (ROI) analysis, event logging, evidence capture, and optional Telegram notifications.
 
 The system is designed for thesis research and controlled demonstrations. It is not a production security system and should not be used as the sole means of protecting people or property.
 
