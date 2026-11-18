@@ -34,6 +34,7 @@
 - [Threat States](#-threat-states)
 - [Testing and Evaluation](#-testing-and-evaluation)
 - [Training and Model Export](#-training-and-model-export)
+- [Dataset](#-dataset)
 - [Repository Layout](#-repository-layout)
 - [Privacy and Security](#-privacy-and-security)
 - [Known Limitations](#-known-limitations)
@@ -230,7 +231,7 @@ The evaluator reports per-class and overall **precision, recall, F1**, and detec
 - `Project_Report_and_Implementation.ipynb`
 
 > [!NOTE]
-> Notebook cells may assume local model files, a webcam, or a dataset that is not included in this repository.
+> Notebook cells may assume local model files, a webcam, or local paths that are not included in this repository.
 
 </details>
 
@@ -238,7 +239,7 @@ The evaluator reports per-class and overall **precision, recall, F1**, and detec
 
 ## 🏋️ Training and Model Export
 
-`data_build.py` downloads a Roboflow dataset, trains a YOLO model, and exports it to ONNX.
+`data_build.py` downloads a Roboflow dataset, trains a YOLO model, and exports it to ONNX. The repository also includes the version 2 dataset described below.
 
 Configure the API key first:
 
@@ -248,6 +249,21 @@ python data_build.py
 ```
 
 Training requires the additional `roboflow` and `ultralytics` packages and is generally best run on a machine with a supported GPU. Training outputs are written under `runs/` and are ignored by Git.
+
+---
+
+## 🗃️ Dataset
+
+The YOLO-format dataset is included in [`Combined_Cup_Bottle_lunchBox/`](Combined_Cup_Bottle_lunchBox/):
+
+| Split | Images | Labels |
+|---|---:|---:|
+| Train | 989 | 989 |
+| Validation | 108 | 108 |
+| Test | 56 | 56 |
+| **Total** | **1,153** | **1,153** |
+
+Use `Combined_Cup_Bottle_lunchBox/data.yaml` as the dataset configuration. The dataset was provided by a Roboflow user and is licensed under **CC BY 4.0**. When redistributing it, retain the attribution and license information in the dataset's `README.dataset.txt` and cite the [Roboflow Universe dataset page](https://universe.roboflow.com/mds-workspace-23fmt/combined_cup_bottle_lunchbox).
 
 ---
 
@@ -268,6 +284,7 @@ ezyZip/
 ├── evaluate_metrics.py              # IoU and detection metric evaluation
 ├── requirements.txt                 # Python dependencies
 ├── .env.example                     # Local configuration template
+├── Combined_Cup_Bottle_lunchBox/    # CC BY 4.0 YOLO dataset (train/valid/test)
 ├── LICENSE                          # MIT license
 └── *.ipynb                          # Reports, experiments, and implementation notes
 ```
