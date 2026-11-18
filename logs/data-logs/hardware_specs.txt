@@ -1,0 +1,251 @@
+Device Name: Mds-MacBook-Air.local
+Device Model: Mac14,2
+Os Platform: Darwin 25.5.0
+Processor: Apple M2
+CPU with Cores: Apple M2 (8 cores)
+Total Memory: 16.0 GB
+GPU: N/A
+Total RAM: 16.0 GB
+CPU: Apple M2
+
+--- New Session: 2026-07-12 12:07:38 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 19:58:31 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:04:57 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:16:30 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:18:12 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:25:37 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:26:39 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:28:21 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:34:27 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:37:11 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:40:37 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 21:44:21 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 22:14:58 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-08-17 22:22:00 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.77 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.77 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-09-01 13:23:00 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.76 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.76 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-09-01 13:31:18 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.76 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.76 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-09-01 13:38:54 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.76 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.76 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-09-01 13:58:20 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.76 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.76 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-09-01 14:02:36 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.76 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.76 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-09-01 14:29:05 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.76 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.76 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-09-01 14:32:09 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.76 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.76 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+
+--- New Session: 2026-09-27 17:01:32 ---
+Device Name: AI-LAB-209-PC-14
+Device Model: Unknown Model
+Os Platform: Windows 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+CPU with Cores: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel (32 cores)
+Total Memory: 63.76 GB
+GPU: NVIDIA GeForce RTX 5060
+Total RAM: 63.76 GB
+CPU: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
